@@ -1,0 +1,10 @@
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\bin\Debug\winformreceiver.exe.config
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\bin\Debug\winformreceiver.exe
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\bin\Debug\winformreceiver.pdb
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\obj\Debug\winformreceiver.csprojAssemblyReference.cache
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\obj\Debug\winformreceiver.Properties.Resources.resources
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\obj\Debug\winformreceiver.csproj.GenerateResource.cache
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\obj\Debug\winformreceiver.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\obj\Debug\winformreceiver.exe
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\obj\Debug\winformreceiver.pdb
+C:\Users\JudyHu\source\repos\05winformsender\winformreceiver\obj\Debug\winformreceiver.receiver2.resources

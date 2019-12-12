@@ -1,0 +1,15 @@
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\bin\Debug\WPFReceiver.exe.config
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\bin\Debug\WPFReceiver.exe
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\bin\Debug\WPFReceiver.pdb
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\WPFReceiver.csprojAssemblyReference.cache
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\MainWindow.g.cs
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\App.g.cs
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\WPFReceiver_MarkupCompile.cache
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\WPFReceiver_MarkupCompile.lref
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\MainWindow.baml
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\WPFReceiver.g.resources
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\WPFReceiver.Properties.Resources.resources
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\WPFReceiver.csproj.GenerateResource.cache
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\WPFReceiver.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\WPFReceiver.exe
+C:\Users\JudyHu\source\repos\05WPFsendMsg\WPFReceiver\obj\Debug\WPFReceiver.pdb

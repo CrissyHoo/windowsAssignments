@@ -1,0 +1,9 @@
+C:\Users\JudyHu\source\repos\DLLTest\calcus\bin\Release\netstandard2.0\calcus.deps.json
+C:\Users\JudyHu\source\repos\DLLTest\calcus\bin\Release\netstandard2.0\calcus.dll
+C:\Users\JudyHu\source\repos\DLLTest\calcus\bin\Release\netstandard2.0\calcus.pdb
+C:\Users\JudyHu\source\repos\DLLTest\calcus\obj\Release\netstandard2.0\calcus.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\DLLTest\calcus\obj\Release\netstandard2.0\calcus.AssemblyInfoInputs.cache
+C:\Users\JudyHu\source\repos\DLLTest\calcus\obj\Release\netstandard2.0\calcus.AssemblyInfo.cs
+C:\Users\JudyHu\source\repos\DLLTest\calcus\obj\Release\netstandard2.0\calcus.dll
+C:\Users\JudyHu\source\repos\DLLTest\calcus\obj\Release\netstandard2.0\calcus.pdb
+C:\Users\JudyHu\source\repos\DLLTest\calcus\obj\Release\netstandard2.0\calcus.csprojAssemblyReference.cache

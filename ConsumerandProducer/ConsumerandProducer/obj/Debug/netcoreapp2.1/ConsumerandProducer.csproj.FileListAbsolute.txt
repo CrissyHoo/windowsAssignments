@@ -1,0 +1,11 @@
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\bin\Debug\netcoreapp2.1\ConsumerandProducer.deps.json
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\bin\Debug\netcoreapp2.1\ConsumerandProducer.runtimeconfig.json
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\bin\Debug\netcoreapp2.1\ConsumerandProducer.runtimeconfig.dev.json
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\bin\Debug\netcoreapp2.1\ConsumerandProducer.dll
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\bin\Debug\netcoreapp2.1\ConsumerandProducer.pdb
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\obj\Debug\netcoreapp2.1\ConsumerandProducer.csprojAssemblyReference.cache
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\obj\Debug\netcoreapp2.1\ConsumerandProducer.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\obj\Debug\netcoreapp2.1\ConsumerandProducer.AssemblyInfoInputs.cache
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\obj\Debug\netcoreapp2.1\ConsumerandProducer.AssemblyInfo.cs
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\obj\Debug\netcoreapp2.1\ConsumerandProducer.dll
+C:\Users\JudyHu\source\repos\ConsumerandProducer\ConsumerandProducer\obj\Debug\netcoreapp2.1\ConsumerandProducer.pdb

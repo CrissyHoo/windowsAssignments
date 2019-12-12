@@ -1,0 +1,7 @@
+C:\Users\JudyHu\source\repos\Mylib\Mylib\bin\Release\Mylib.dll
+C:\Users\JudyHu\source\repos\Mylib\Mylib\bin\Release\Mylib.pdb
+C:\Users\JudyHu\source\repos\Mylib\Mylib\obj\Release\Mylib.csprojAssemblyReference.cache
+C:\Users\JudyHu\source\repos\Mylib\Mylib\obj\Release\Mylib.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\Mylib\Mylib\obj\Release\Mylib.csproj.CopyComplete
+C:\Users\JudyHu\source\repos\Mylib\Mylib\obj\Release\Mylib.dll
+C:\Users\JudyHu\source\repos\Mylib\Mylib\obj\Release\Mylib.pdb

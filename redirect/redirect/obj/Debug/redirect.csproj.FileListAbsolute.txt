@@ -1,0 +1,15 @@
+C:\Users\JudyHu\source\repos\redirect\redirect\bin\Debug\redirect.exe.config
+C:\Users\JudyHu\source\repos\redirect\redirect\bin\Debug\redirect.exe
+C:\Users\JudyHu\source\repos\redirect\redirect\bin\Debug\redirect.pdb
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\MainWindow.g.cs
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\App.g.cs
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\redirect_MarkupCompile.cache
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\redirect_MarkupCompile.lref
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\MainWindow.baml
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\redirect.g.resources
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\redirect.Properties.Resources.resources
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\redirect.csproj.GenerateResource.cache
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\redirect.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\redirect.exe
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\redirect.pdb
+C:\Users\JudyHu\source\repos\redirect\redirect\obj\Debug\redirect.csprojAssemblyReference.cache

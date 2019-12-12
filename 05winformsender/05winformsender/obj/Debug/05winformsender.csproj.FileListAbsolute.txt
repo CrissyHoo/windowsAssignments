@@ -1,0 +1,10 @@
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\obj\Debug\05winformsender.csprojAssemblyReference.cache
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\obj\Debug\_05winformsender.Form1.resources
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\obj\Debug\_05winformsender.Properties.Resources.resources
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\obj\Debug\05winformsender.csproj.GenerateResource.cache
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\obj\Debug\05winformsender.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\bin\Debug\05winformsender.exe.config
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\bin\Debug\05winformsender.exe
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\bin\Debug\05winformsender.pdb
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\obj\Debug\05winformsender.exe
+C:\Users\JudyHu\source\repos\05winformsender\05winformsender\obj\Debug\05winformsender.pdb

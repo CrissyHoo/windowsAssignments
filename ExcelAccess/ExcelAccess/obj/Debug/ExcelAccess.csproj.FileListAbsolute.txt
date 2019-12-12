@@ -1,0 +1,15 @@
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\bin\Debug\ExcelAccess.exe.config
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\bin\Debug\ExcelAccess.exe
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\bin\Debug\ExcelAccess.pdb
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\ExcelAccess.csprojAssemblyReference.cache
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\MainWindow.g.cs
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\App.g.cs
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\ExcelAccess_MarkupCompile.cache
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\ExcelAccess_MarkupCompile.lref
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\MainWindow.baml
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\ExcelAccess.g.resources
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\ExcelAccess.Properties.Resources.resources
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\ExcelAccess.csproj.GenerateResource.cache
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\ExcelAccess.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\ExcelAccess.exe
+C:\Users\JudyHu\source\repos\ExcelAccess\ExcelAccess\obj\Debug\ExcelAccess.pdb

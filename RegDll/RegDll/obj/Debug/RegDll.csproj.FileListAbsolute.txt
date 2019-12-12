@@ -1,0 +1,7 @@
+C:\Users\JudyHu\source\repos\RegDll\RegDll\bin\Debug\RegDll.exe.config
+C:\Users\JudyHu\source\repos\RegDll\RegDll\bin\Debug\RegDll.exe
+C:\Users\JudyHu\source\repos\RegDll\RegDll\bin\Debug\RegDll.pdb
+C:\Users\JudyHu\source\repos\RegDll\RegDll\obj\Debug\RegDll.csprojAssemblyReference.cache
+C:\Users\JudyHu\source\repos\RegDll\RegDll\obj\Debug\RegDll.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\RegDll\RegDll\obj\Debug\RegDll.exe
+C:\Users\JudyHu\source\repos\RegDll\RegDll\obj\Debug\RegDll.pdb

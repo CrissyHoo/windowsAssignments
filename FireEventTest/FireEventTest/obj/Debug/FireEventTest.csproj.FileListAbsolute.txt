@@ -1,0 +1,10 @@
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\bin\Debug\FireEventTest.exe.config
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\bin\Debug\FireEventTest.exe
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\bin\Debug\FireEventTest.pdb
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\obj\Debug\FireEventTest.csprojAssemblyReference.cache
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\obj\Debug\FireEventTest.FireEventTest.resources
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\obj\Debug\FireEventTest.Properties.Resources.resources
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\obj\Debug\FireEventTest.csproj.GenerateResource.cache
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\obj\Debug\FireEventTest.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\obj\Debug\FireEventTest.exe
+C:\Users\JudyHu\source\repos\FireEventTest\FireEventTest\obj\Debug\FireEventTest.pdb

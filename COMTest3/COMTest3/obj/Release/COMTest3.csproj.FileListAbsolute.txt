@@ -1,0 +1,9 @@
+C:\Users\JudyHu\source\repos\COMTest3\COMTest3\bin\Release\COMTest3.exe.config
+C:\Users\JudyHu\source\repos\COMTest3\COMTest3\bin\Release\COMTest3.exe
+C:\Users\JudyHu\source\repos\COMTest3\COMTest3\bin\Release\COMTest3.pdb
+C:\Users\JudyHu\source\repos\COMTest3\COMTest3\bin\Release\Mylib.dll
+C:\Users\JudyHu\source\repos\COMTest3\COMTest3\bin\Release\Mylib.pdb
+C:\Users\JudyHu\source\repos\COMTest3\COMTest3\obj\Release\COMTest3.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\COMTest3\COMTest3\obj\Release\COMTest3.csproj.CopyComplete
+C:\Users\JudyHu\source\repos\COMTest3\COMTest3\obj\Release\COMTest3.exe
+C:\Users\JudyHu\source\repos\COMTest3\COMTest3\obj\Release\COMTest3.pdb

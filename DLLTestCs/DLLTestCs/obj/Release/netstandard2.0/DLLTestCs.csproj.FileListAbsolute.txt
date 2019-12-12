@@ -1,0 +1,9 @@
+C:\Users\JudyHu\source\repos\DLLTestCs\DLLTestCs\bin\Release\netstandard2.0\DLLTestCs.deps.json
+C:\Users\JudyHu\source\repos\DLLTestCs\DLLTestCs\bin\Release\netstandard2.0\DLLTestCs.dll
+C:\Users\JudyHu\source\repos\DLLTestCs\DLLTestCs\bin\Release\netstandard2.0\DLLTestCs.pdb
+C:\Users\JudyHu\source\repos\DLLTestCs\DLLTestCs\obj\Release\netstandard2.0\DLLTestCs.csprojAssemblyReference.cache
+C:\Users\JudyHu\source\repos\DLLTestCs\DLLTestCs\obj\Release\netstandard2.0\DLLTestCs.csproj.CoreCompileInputs.cache
+C:\Users\JudyHu\source\repos\DLLTestCs\DLLTestCs\obj\Release\netstandard2.0\DLLTestCs.AssemblyInfoInputs.cache
+C:\Users\JudyHu\source\repos\DLLTestCs\DLLTestCs\obj\Release\netstandard2.0\DLLTestCs.AssemblyInfo.cs
+C:\Users\JudyHu\source\repos\DLLTestCs\DLLTestCs\obj\Release\netstandard2.0\DLLTestCs.dll
+C:\Users\JudyHu\source\repos\DLLTestCs\DLLTestCs\obj\Release\netstandard2.0\DLLTestCs.pdb
